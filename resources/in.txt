@@ -1,0 +1,12 @@
+in Javascript
+in Rust
+in Java
+in Ruby
+in C++
+in PHP
+in Swift
+in Brainfuck
+in C
+in Scala
+in C#
+in Kotlin
