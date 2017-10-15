@@ -16,3 +16,5 @@ in Objective-C
 in Python
 in Lua
 in Haskell
+in Assembly
+in BASIC
