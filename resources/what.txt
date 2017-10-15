@@ -17,3 +17,12 @@ A website
 An online schedule
 A MineSweeper
 A mod
+A web browser
+A social network
+A Paper Chase
+A media player
+An IDE
+A vector graphics editor
+A raster graphics editor
+A game engine
+A TeamViewer
