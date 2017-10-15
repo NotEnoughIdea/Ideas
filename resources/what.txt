@@ -2,7 +2,7 @@ A Facebook
 A search engine
 A blog
 A bot
-A newletter
+A newsletter
 A Twitter
 A YouTube
 A Twitch
