@@ -14,3 +14,5 @@ in Perl
 in Go
 in Objective-C
 in Python
+in Lua
+in Haskell
