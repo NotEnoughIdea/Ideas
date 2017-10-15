@@ -9,3 +9,9 @@ A Twitch
 A GitHub
 A text-editor
 A game
+A calculator
+A 2D-game
+A 3D-game
+A console game
+A website
+An online schedule
