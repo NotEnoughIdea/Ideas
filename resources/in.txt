@@ -10,3 +10,8 @@ in C
 in Scala
 in C#
 in Kotlin
+in Perl
+in Go
+in Swift
+in Objective-C
+in Python
