@@ -28,3 +28,8 @@ A game engine
 A TeamViewer
 An image editor
 A Tic Tac Toe game
+A Skript Plugin 2.0
+An API
+A Game Platform
+A Stream Platform
+A Game Company
